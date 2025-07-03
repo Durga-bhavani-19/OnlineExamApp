@@ -1,0 +1,59 @@
+Q:Which of these is not a Java keyword?
+A:class,interface,extends,define
+C:3
+
+Q:Which method is the entry point for a Java program?
+A:run(),main(),start(),execute()
+C:1
+
+Q:What does OOP stand for?
+A:Object-Oriented Programming,Object Operating Protocol,Open Object Process,Object Operation Plan
+C:0
+
+Q:Which data structure uses FIFO?
+A:Stack,Queue,Tree,Graph
+C:1
+
+Q:Which sorting algorithm has O(n^2) time complexity in worst case?
+A:Merge Sort,Quick Sort,Bubble Sort,Heap Sort
+C:2
+
+Q:Which access modifier makes members visible only in the same class?
+A:private,public,protected,default
+C:0
+
+Q:Which operator is used for logical AND in Java?
+A:&,&&,|,||
+C:1
+
+Q:What is the size of an int in Java?
+A:2 bytes,4 bytes,8 bytes,1 byte
+C:1
+
+Q:Which is not a Java primitive type?
+A:int,boolean,float,String
+C:3
+
+Q:How many objects are created in: String s = new String("Hello");
+A:0,1,2,Depends on JVM
+C:2
+
+Q:What is the output of: 5 + "5"?
+A:10,55,Error,Undefined
+C:1
+
+Q:Which class is used to take input from the user in Java?
+A:System,InputStream,Scanner,Reader
+C:2
+
+Q:Which of the following is a valid loop in Java?
+A:for(),loop(),iterate(),cycle()
+C:0
+
+Q:Which keyword is used to prevent method overriding?
+A:static,private,final,const
+C:2
+
+Q:Which one is not a feature of Java?
+A:Platform Independence,Object Oriented,Manual Memory Management,Robust
+C:2
